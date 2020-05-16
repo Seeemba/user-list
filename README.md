@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1b4f8caf-1e17-4af1-9ef2-81dff738e721/deploy-status)](https://app.netlify.com/sites/vuetify-user-list/deploys)
+
 # User List
 
 ## Project setup
